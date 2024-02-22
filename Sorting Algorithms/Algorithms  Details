@@ -1,0 +1,11 @@
+| Sorting Algorithm   | Best Case Complexity | Average Case Complexity | Worst Case Complexity | Stability | In-Place |
+|---------------------|----------------------|-------------------------|-----------------------|-----------|----------|
+| Bubble Sort         | O(n)                 | O(n^2)                  | O(n^2)                | Stable    | Yes      |
+| Selection Sort      | O(n^2)               | O(n^2)                  | O(n^2)                | Unstable  | Yes      |
+| Insertion Sort      | O(n)                 | O(n^2)                  | O(n^2)                | Stable    | Yes      |
+| Merge Sort          | O(n log n)           | O(n log n)              | O(n log n)            | Stable    | No       |
+| Quick Sort          | O(n log n)           | O(n log n)              | O(n^2)                | Unstable  | Yes      |
+| Heap Sort           | O(n log n)           | O(n log n)              | O(n log n)            | Unstable  | Yes      |
+| Counting Sort       | O(n + k)             | O(n + k)                | O(n + k)              | Stable    | No       |
+| Radix Sort          | O(n * k)             | O(n * k)                | O(n * k)              | Stable    | No       |
+| Bucket Sort         | O(n + k)             | O(n + k)                | O(n^2)                | Stable    | No       |

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Muhammad Jilani\Documents\My Documents\Third semester all documents\Data Structures and Algorithms\dsa lab tasks\MSDOS\Source\folder.h(278,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Muhammad Jilani\Documents\My Documents\Third semester all documents\Data Structures and Algorithms\dsa lab tasks\MSDOS\Source\DOS.h(149,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  Source.vcxproj -> C:\Users\Muhammad Jilani\Documents\My Documents\Third semester all documents\Data Structures and Algorithms\dsa lab tasks\MSDOS\x64\Debug\Source.exe
